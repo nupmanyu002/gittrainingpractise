@@ -1,0 +1,1 @@
+Git is a VCS(version control system) which helps us in managing the versions of our code, It keeps an eye on every line of our code, And remembers which line is been Deleted, Added, or Modified. A Git repository has-> working area + staging area + commit area .
