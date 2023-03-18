@@ -1,1 +1,2 @@
-important to learn git and its features
+##important to learn git and its features
+[I'm an inline-style link](https://medium.com/@genuine_oruby_jackal_199)
