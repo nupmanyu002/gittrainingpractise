@@ -1,1 +1,2 @@
 Welcome to the git training 
+learn everything about git and git lab
